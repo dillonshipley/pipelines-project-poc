@@ -1,0 +1,22 @@
+[
+    {
+        "repo": "SPA Search Parent",
+        "jenkins": "Spasolr"
+    }, 
+    {
+        "repo": "Company Search Parent",
+        "jenkins": "Compsolr"
+    },
+    {
+        "repo": "quotes-deployment",
+        "jenkins": "Quotes"
+    }, 
+    {
+        "repo": "rates-deployment",
+        "jenkins": "Rates"
+    },
+    {
+        "repo": "Company",
+        "jenkins": "Company"
+    }
+]
